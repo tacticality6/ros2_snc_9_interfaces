@@ -1,0 +1,3 @@
+string new_state #the new state to be set too
+---
+bool success #true if state was successfully set

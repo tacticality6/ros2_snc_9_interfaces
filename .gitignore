@@ -1,0 +1,31 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+.colcon/
+ament_ws/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs (CLion, PyCharm, etc.)
+.idea/
+
+# Environment and temporary files
+*.swp
+*.swo
+.DS_Store
+*.bak
+*.tmp
